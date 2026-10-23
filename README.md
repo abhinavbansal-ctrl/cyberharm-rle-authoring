@@ -1,1 +1,0 @@
-# cyberharm-rle-authoring
